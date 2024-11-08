@@ -8,7 +8,9 @@ I'm at the beginning of my journey as a fullstack developer, always looking to l
 Currently, I'm studying web development and focusing on technologies such as:
 
 Front-end: HTML, CSS, JavaScript
+
 Back-end: Node.js, Express
+
 Database: MySQL, MongoDB
 
 🌱 Goals:
