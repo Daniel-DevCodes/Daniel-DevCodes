@@ -13,7 +13,12 @@ Currently, I'm studying web development and focusing on technologies such as:
 <br>
 <br>
 
-[![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white&borderRadius=16)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,ts,express,postgres,mongodb,mysql,materialui,sequelize,)](https://skillicons.dev" />
+  </a>
+</p>
 <br>
 <br>
 <br>
