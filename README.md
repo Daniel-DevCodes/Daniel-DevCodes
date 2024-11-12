@@ -13,19 +13,7 @@ Currently, I'm studying web development and focusing on technologies such as:
 <br>
 <br>
 
-[![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-[![Express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
-[![MySQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-[![MongoDB](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white&borderRadius=16)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 <br>
 <br>
 <br>
