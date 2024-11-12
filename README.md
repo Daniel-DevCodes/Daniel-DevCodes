@@ -5,7 +5,8 @@ Hello! I'm Carlos Daniel 👋
 🎓 About Me:
 My name is Carlos Daniel, I'm 23 years old, and I'm passionate about technology and programming.
 I'm at the beginning of my journey as a Fullstack developer, always looking to learn new skills to become a well-rounded professional in the field.
-
+<br>
+<br>
 💻 What I'm Learning:
 Currently, I'm studying web development and focusing on technologies such as:
 <br>
